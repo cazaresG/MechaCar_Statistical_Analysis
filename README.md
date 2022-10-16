@@ -11,7 +11,7 @@ Challenge 15
 ## T-Tests on Suspension Coils
 
 
-*Visualization 2* ![This is an image](https://github.com/cazaresG/Bikesharing/blob/9155ae3742870c68670ad355303fe2e4718d8f3a/images/checkout_times_gender.png)
+*Visualization 2* ![This is an image](https://github.com/cazaresG/MechaCar_Statistical_Analysis/blob/03af95e99af36287bba6bec91b1aff04561b2ac8/images/ttest1.png)
 
 
 *Visualization 3* 
