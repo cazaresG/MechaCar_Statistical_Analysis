@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 Challenge 15
 
-## Overview
+## Linear Regression to Predict MPG
 
 
 ## Results
