@@ -6,7 +6,9 @@ Challenge 15
 
  ## Summary Statistics on Suspension Coils
 
-*Summary Statistics on Suspension Coils* ![This is an image](https://github.com/cazaresG/Bikesharing/blob/e21cba1ff58978257b4f10d864621418107bb3e3/images/checkout_times_users.png) 
+*Summary Statistics on Suspension Coils* ![This is an image](https://github.com/cazaresG/MechaCar_Statistical_Analysis/blob/020199abd0cc0447e3e21a263e2f40054799a40d/images/Manufactoring_Lot.png) 
+
+
 
 
 *Visualization 2* ![This is an image](https://github.com/cazaresG/Bikesharing/blob/9155ae3742870c68670ad355303fe2e4718d8f3a/images/checkout_times_gender.png)
