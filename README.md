@@ -15,7 +15,7 @@ Challenge 15
 
 
 *Visualization 3* 
-![This is an image](https://github.com/cazaresG/Bikesharing/blob/326902e7a777cfc8e91b206eefd4c159b1d47c90/images/trips_weekday_hour.png)
+![This is an image](https://github.com/cazaresG/MechaCar_Statistical_Analysis/blob/aa53b4a5bb28cc3759cefd18213c88eb477d1172/images/ttest2.png)
 
 
 *Visualization 4* 
