@@ -8,7 +8,7 @@ Challenge 15
 
 *Summary Statistics on Suspension Coils* ![This is an image](https://github.com/cazaresG/MechaCar_Statistical_Analysis/blob/020199abd0cc0447e3e21a263e2f40054799a40d/images/Manufactoring_Lot.png) 
 
-
+## T-Tests on Suspension Coils
 
 
 *Visualization 2* ![This is an image](https://github.com/cazaresG/Bikesharing/blob/9155ae3742870c68670ad355303fe2e4718d8f3a/images/checkout_times_gender.png)
