@@ -22,4 +22,4 @@ Challenge 15
 ![This is an image](https://github.com/cazaresG/MechaCar_Statistical_Analysis/blob/f96fa93d156afef3fae567b9fb7877a8b08e9633/images/ttest3.png)
 
 
-## Results
+## Study Design: MechaCar vs Competition
